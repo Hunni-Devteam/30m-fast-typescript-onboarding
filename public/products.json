@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Tee-Shirt",
+    "price": 10,
+    "description": "Tee-Shirt de qualité",
+    "image": "https://www.leslipfrancais.fr/medias/produits/tee-shirt-uni-bleu-marine-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pantalon",
+    "price": 20,
+    "description": "Pantalon de qualité",
+    "image": "https://www.leslipfrancais.fr/medias/produits/pantalon-uni-bleu-marine-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chaussettes",
+    "price": 5,
+    "description": "Chaussettes de qualité",
+    "image": "https://www.leslipfrancais.fr/medias/produits/chaussettes-uni-bleu-marine-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pull",
+    "price": 30,
+    "description": "Pull de qualité",
+    "image": "https://www.leslipfrancais.fr/medias/produits/pull-uni-bleu-marine-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chemise",
+    "price": 25,
+    "description": "Chemise de qualité",
+    "image": "https://www.leslipfrancais.fr/medias/produits/chemise-uni-bleu-marine-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Veste",
+    "price": 40,
+    "description": "Veste de qualité",
+    "image": "https://www.leslipfrancais.fr/medias/produits/veste-uni-bleu-marine-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ring",
+    "price": 1000,
+    "description": "A ring",
+    "image": "",
+    "category": "accessory",
+    "kind": "ring",
+    "material": "gold"
+  }
+]

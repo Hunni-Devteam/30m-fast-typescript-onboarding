@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Ring",
+    "price": 1000,
+    "description": "A ring",
+    "image": "https://www.thespruce.com/thmb/9Z1QZ3Z3Z2Z2Z2Z2Z2Z2Z2Z2Z2-5c0d5b0b46d140f6a2b0b2e2f0b2b2b2.jpg",
+    "category": "jewelry",
+    "kind": "ring",
+    "material": "gold"
+  },
+]
